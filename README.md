@@ -26,9 +26,9 @@
 
 ### My Project
 <!-- BLOG-POST-LIST:START -->
-- React Project [KKK-SuperCar](https://kkk-supercar.netlify.app/)
+- <h5>React</h5> Project [KKK-SuperCar](https://kkk-supercar.netlify.app/)
 
-- MERN Project [KKK-Bank](https://kkk-bank.onrender.com/)
+- <h5>MERN</h5> Project [KKK-Bank](https://kkk-bank.onrender.com/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
